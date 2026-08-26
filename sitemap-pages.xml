@@ -16,22 +16,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0129.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0130.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0131.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0132.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -52,6 +42,66 @@
   </url>
   <url>
     <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0136.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0100.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0110.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/review-001-a50z34.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/t3link-002-kj55in.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0129.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260719-0132.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -116,11 +166,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0100.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0101.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -162,56 +207,6 @@
   </url>
   <url>
     <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0109.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/gemini-coverage-20260722-0110.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/review-001-a50z34.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts/t3link-002-kj55in.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sangsu-room-review.hardcoreroom.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
